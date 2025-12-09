@@ -105,8 +105,8 @@ Contributions are what make the open source community such an amazing place to b
 ## Contact
 
 <br>
-Email - proproject1057@gmail.com
-LinkedIn - [Your LinkedIn URL]
-Instagram - @ProProjects
+Email - proproject1057@gmail.com\n
+LinkedIn - https://www.linkedin.com/in/pro-project/
+Instagram - https://www.instagram.com/proproject_finalyearproject?igsh=MXhxeDQ4cmk0Mzk5dQ==
 
 Project Link: https://github.com/proproject1059/ProProjects-URL-Shortener
