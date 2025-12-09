@@ -104,8 +104,9 @@ Contributions are what make the open source community such an amazing place to b
 <!-- CONTACT -->
 ## Contact
 
-Twitter - [@P_Debjit](https://twitter.com/P_Debjit) 
 <br>
-LinkedIn - [Debjit Pramanick](https://www.linkedin.com/in/debjit-pramanick-7a6a971b1/)
+Email - proproject1057@gmail.com
+LinkedIn - [Your LinkedIn URL]
+Instagram - @ProProjects
 
-Project Link: [https://github.com/DebjitPramanick/Django-Text-Analyzer](https://github.com/DebjitPramanick/Django-Text-Analyzer)
+Project Link: https://github.com/proproject1059/ProProjects-URL-Shortener
